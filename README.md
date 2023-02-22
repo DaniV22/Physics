@@ -15,4 +15,5 @@ At the moment, there are the following problems:
                
 * **Ising Model:** The famous Ising Model for a square lattice is solved and some physical magnitudes are computed.
 
-* **Oscillatory Motion:** A general overview of the oscillatory motion, from simple pendulum to driven pendulum, and a brief introduction to chaos theory. 
+* **Oscillatory Motion:** A general overview of the oscillatory motion, from simple pendulum to driven pendulum, and a brief introduction to chaos theory.
+* **Dynamical Systems:** An example of a (noisy) dynamical system in which we study the effect of the noise on the dynamics and correlations.
